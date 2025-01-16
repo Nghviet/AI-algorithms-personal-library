@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/nguyenhoangviet/Desktop/AI-algorithms-personal-library/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -o CMakeFiles/AI_Implementation.dir/main.cpp.o -c /Users/nguyenhoangviet/Desktop/AI-algorithms-personal-library/main.cpp",
+  "file": "/Users/nguyenhoangviet/Desktop/AI-algorithms-personal-library/main.cpp",
+  "output": "CMakeFiles/AI_Implementation.dir/main.cpp.o"
+}
+]
